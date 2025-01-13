@@ -11,4 +11,10 @@ Local accounts can be customized with gpedit.
 There are two accounts which cannot be deleted:
 
 1. Administrator: This account runs with no UAC and its security token is always elevated.
-2. 
+2. Guest: This account is disabled by default. It cannot change settings or install programs.
+
+Local accounts can be edited with several GUI tools:
+
+- The Account tile in Settings
+- User accounts control panel or NETPLWIZ.EXE
+- Computer management or 
