@@ -4,7 +4,11 @@ MFA is a combination of the following factors:
 3. Something you are
 
 Factors in clude:
-- Password
+- Passwords
 - Biometric ID
-- PIN
+- PINs
 - SMS
+- [[Smart cards]]
+- [[Certificates]]
+- Hardware tokens
+- [[Software tokens]]
