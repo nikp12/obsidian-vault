@@ -7,4 +7,6 @@ There are four main account types in Windows:
 4. [[Microsoft accounts]]
 
 Principals I haven't gotten to yet:
-[[]]
+[[Cloud PKI]]
+[[Authenticators and FIDO2]]
+[[Windows Hello]]
