@@ -1,0 +1,1 @@
+A section in the registry that stores local account redentials.
