@@ -1,3 +1,9 @@
+2025-01-13 15:59
+
+Tags: #Windows10 #Windows11 #
+
+# Local accounts
+
 Local accounts are accounts created directly on a Windows 10 or 11 device.
 
 No network access is needed to access these accounts.
@@ -17,4 +23,11 @@ Local accounts can be edited with several GUI tools:
 
 - The Account tile in Settings
 - User accounts control panel or NETPLWIZ.EXE
-- Computer management or 
+- Computer management or COMPMGMT.MSC
+- Local user management or LUSRMGR.MSC
+
+
+## References
+
+
+
