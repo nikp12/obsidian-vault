@@ -8,7 +8,7 @@ The core of authentication is proving identity. Identity should be a combination
 
 There are two types of identity authentication security: Hardware based and software based.
 
-Hardware based includes hardware tokens and [[firmware passwords]].
+Hardware based includes [[hardware tokens]] and [[firmware passwords]].
 
 
 
