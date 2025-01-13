@@ -12,3 +12,6 @@ Factors in clude:
 - [[Certificates]]
 - Hardware tokens
 - [[Software tokens]]
+
+The base Entra ID license includes basic MFA capabilities, where the same policy is applied to all users.
+Entra ID P2 gives more granularity and access to customizable [[Conditional access policies]]
