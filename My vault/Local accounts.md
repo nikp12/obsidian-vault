@@ -1,6 +1,6 @@
 2025-01-13 15:59
 
-Tags: #Windows10 #Windows11 #
+Tags: #Windows10 #Windows11 #md-102 #Security 
 
 # Local accounts
 
@@ -29,5 +29,5 @@ Local accounts can be edited with several GUI tools:
 
 ## References
 
-
+[[Pluralsight User Authentication in Windows]]
 
