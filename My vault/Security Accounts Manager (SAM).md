@@ -1,1 +1,0 @@
-A section in the registry that stores local account credentials. This section of the registry is not viewable, and all passwords are encrypted.
