@@ -6,4 +6,4 @@ With nearly a hundred followers, the brothers made their way north across the [[
 
 Both towns were independently successful, but rarely mixed. A cold war escalated between them, which became a long-lasting feud that outlived both siblings.
 
-With the rise of [[New Thassilon]], the [[Ironbound Archipelago]] has lost some of the independence that made it the region it is today. Fortunately, [[Runelord Belimarius]] is more concerned with 
+With the rise of [[New Thassilon]], the [[Ironbound Archipelago]] has lost some of the independence that made it the region it is today. Fortunately, [[Runelord Belimarius]] is more concerned with her political struggles with her rivals than subjugating the pre-existing villages of the archipelago. 
