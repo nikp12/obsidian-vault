@@ -1,1 +1,1 @@
-The adventure begins in the village of Osprey Cove, on Chakikoth Isle in western New Thassilon. The focus for the full adventure is a stretch of the isle’s southern shores, known as the Kindred Co
+The adventure begins in the village of [[Osprey Cove]], on [[Chakikoth Isle]] in western [[New Thassilon]]. The focus for the full adventure is a stretch of the isle’s southern shores, known as the [[Kindred Coast]]. Approximately 20 hours’ trek to the north is
