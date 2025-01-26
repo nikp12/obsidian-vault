@@ -5,3 +5,5 @@ In the year 4606 [[AR]] (CY is 4725), the dawn of the [[Age of Lost Omens]], a s
 With nearly a hundred followers, the brothers made their way north across the [[Shining Sea]] and landed on the coast that would become known as the [[Kindred Coast]]. They founded [[Osprey Cove]], but there was a lot of bickering between the brothers and within a year there was a schism. [[Santwi]] wanted to continue developing the town into a gentl commune of fishers and farmers. [[Dartanious]], however, wanted to build up military might and strike back against Riddleport. To avoid a violent falling out, Dartanious took his followers and traveled up the coast to establish a second village named [[Iron Harbor]].
 
 Both towns were independently successful, but rarely mixed. A cold war escalated between them, which became a long-lasting feud that outlived both siblings.
+
+With the rise of [[New Thassilon]], the [[Ironbound Archipelago]] has lost some of the independence that made it the region it is today. Fortunately, [[Runelord Belimarius]] is more concerned with 
