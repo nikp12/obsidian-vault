@@ -6,4 +6,6 @@ With nearly a hundred followers, the brothers made their way north across the [[
 
 Both towns were independently successful, but rarely mixed. A cold war escalated between them, which became a long-lasting feud that outlived both siblings.
 
-With the rise of [[New Thassilon]], the [[Ironbound Archipelago]] has lost some of the independence that made it the region it is today. Fortunately, [[Runelord Belimarius]] is more concerned with her political struggles with her rivals than subjugating the pre-existing villages of the archipelago. She levies taxes from the villagers, who do not resist because the less attention they draw from her the better. The leaders of Osprey Cove feel they are living on borrowed time, and talks about abandoning the Kindred Coast and finding a new home futher abroad
+With the rise of [[New Thassilon]], the [[Ironbound Archipelago]] has lost some of the independence that made it the region it is today. Fortunately, [[Runelord Belimarius]] is more concerned with her political struggles with her rivals than subjugating the pre-existing villages of the archipelago. She levies taxes from the villagers, who do not resist because the less attention they draw from her the better. The leaders of Osprey Cove feel they are living on borrowed time, and talks about abandoning the Kindred Coast and finding a new home futher abroad have been spreading through the town.
+
+The nearby site known as [[Rusthenge]] has been long avoided by the people of the Kindred Coast. 
