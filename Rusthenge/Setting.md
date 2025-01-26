@@ -11,3 +11,6 @@ With the rise of [[New Thassilon]], the [[Ironbound Archipelago]] has lost some 
 The nearby site known as [[Rusthenge]] has been long avoided by the people of the Kindred Coast.
 
 [[Xar-Azmak]]
+
+[[Theiltemar]]
+
