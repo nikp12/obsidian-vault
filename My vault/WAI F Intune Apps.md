@@ -4,5 +4,5 @@ Microsoft 365 Apps - Windows Store App
 PrinterLogic Installer Client - Jacob says probably not
 Surface?
 ConnectWise RMM - .MSI
-Company Portal
+Company Portal - Windows Store App
 
