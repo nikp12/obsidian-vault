@@ -30,3 +30,4 @@
 
 **Enforcement scope
 
+![[Pasted image 20250217152926.png]]
