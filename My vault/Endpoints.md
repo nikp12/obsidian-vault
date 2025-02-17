@@ -24,3 +24,9 @@
 
 ![[Pasted image 20250217152639.png]]
 
+**Automation uploads**
+
+![[Pasted image 20250217152901.png]]
+
+**Enforcement scope
+
