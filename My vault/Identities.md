@@ -1,0 +1,1 @@
+This all seems to be AD related, so it will not be needed in the WAI F tenant.
