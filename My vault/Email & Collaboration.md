@@ -6,4 +6,7 @@
 
 ![[Pasted image 20250217153303.png]]
 
+**Microsoft Teams protection
+
+![[Pasted image 20250217153608.png]]
 
