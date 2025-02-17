@@ -1,5 +1,3 @@
-```WAI Anti-Phishing Policy
-
 Policy on | Priority 0 | Tue Jul 16 2024
 
 Description
@@ -125,5 +123,4 @@ On
 On
 
 Edit actions
-```
 
