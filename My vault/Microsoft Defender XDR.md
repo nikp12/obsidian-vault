@@ -93,3 +93,7 @@ Microsoft Defender for Endpoint
 Defender XDR
 
 Medium, High
+
+![[Pasted image 20250217151300.png]]
+
+![[Pasted image 20250217151310.png]]
