@@ -16,3 +16,7 @@
 
 ![[Pasted image 20250217152447.png]]
 
+**Auto remediation
+
+![[Pasted image 20250217152533.png]]
+
