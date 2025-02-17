@@ -10,3 +10,7 @@
 
 ![[Pasted image 20250217151905.png]]
 
+**Email Notifications**
+
+![[Pasted image 20250217152421.png]]
+
