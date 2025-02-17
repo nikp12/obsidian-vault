@@ -29,6 +29,10 @@ Phishing threshold & protection
 
 On for 11 user(s)
 
+Sweat, Jacob
+Sewell, James
+Watkins, Clay
+
 ### Domain impersonation protection
 
 On for owned domains
