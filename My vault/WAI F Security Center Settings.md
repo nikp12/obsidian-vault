@@ -10,4 +10,5 @@
 
 [[Device discovery]]
 
-[[Clou
+[[Microsoft Sentinel]]
+
