@@ -1,3 +1,5 @@
+[[Safe Attachments Policy - Global Settings]]
+
 [[Watkins Safe Attachments Policy]]
 
 Settings__
