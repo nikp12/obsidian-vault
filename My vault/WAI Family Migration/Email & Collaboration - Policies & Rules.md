@@ -8,6 +8,7 @@
 
 [[Safe Links Policy]]
 
+[[Email Authentication Settings]]
 
 
 
