@@ -6,6 +6,8 @@
 
 [[Safe Attachments Policy]]
 
-[[Safe Links Polciy]]
+[[Safe Links Policy]]
+
+
 
 
