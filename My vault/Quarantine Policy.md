@@ -21,7 +21,3 @@ preview the message
 ### Quarantine notification
 
 Enabled with messages from blocked sender addresses excluded.
-
-### Test
-Test
-test
