@@ -20,3 +20,7 @@
 
 ![[Pasted image 20250217152533.png]]
 
+**Web content filtering**
+
+![[Pasted image 20250217152639.png]]
+
