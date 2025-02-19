@@ -26,3 +26,8 @@ Gen AI menu contains option for Gemini
 Gemini page controls how users interact with Gemini
 Gemini for Workspace manages how features are used in Workspace apps
 Gemini reports provides information on how it is being used in org and individual user level
+
+Security menu manages security settings like 2fa and pws, plus monitoring security and privacy issues
+Data menu gives overview of compliance, data migration, and data export settings
+
+Reporting gives reports and audit logs for potential security risks
