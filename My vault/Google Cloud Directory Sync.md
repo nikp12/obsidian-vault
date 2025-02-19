@@ -17,4 +17,7 @@ Also set up notification and logging options
 Run simulated sync to ensure that everythign it set up correctly
 GCDS uses search rules to determine what to include
 Exclusion rules can be applied like to exlude emails beginning with a certain string
-Sync can be run manually from Config M
+Sync can be run manually from Config Manager or from command line
+Sync command allows you to automate sync process to be scheduled
+
+[[Provisioning]] 
