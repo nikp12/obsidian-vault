@@ -24,4 +24,4 @@ All settings made in admin console apply to the top level organization
 You can create OUs to control what apps and services are available to users. They can be configured differently for different sets of users.
 Each child OU inherits settings from its parent unless this has been overridden.
 
-If managing lots of users or syncing LDAP, a configuration or access group can be used. Config groups customize service settings.
+If managing lots of users or syncing LDAP, a configuration or access group can be used. Config groups customize service settings. Access groups customize service access.
