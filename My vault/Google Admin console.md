@@ -32,4 +32,6 @@ Data menu gives overview of compliance, data migration, and data export settings
 Reporting gives reports and audit logs for potential security risks
 Billing section adds payment methods, views invoices, manages subscriptions, and assigns licenses
 Account settings customizes org details and sets comm preferences, can also review compliance agreements like GDPR and HIPAA
-
+Rules page creates rules and alerts to secure org data, files, devices
+Storage monitors manages and optimizes how storage is used
+Send feedback sends feedback
