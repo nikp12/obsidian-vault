@@ -18,4 +18,11 @@ OUs is where you set up a structure to apply settings and apps to groups or depa
 Directory settings controls how users access and change directory info
 Directory seync lets you sync user and group data from an external directorey
 Apps menu manages settings for Workspace apps and services
-Devices menu 
+Devices menu secures corporate data on devices
+
+
+Gen AI menu contains option for Gemini
+
+Gemini page controls how users interact with Gemini
+Gemini for Workspace manages how features are used in Workspace apps
+Gemini reports provides information on how it is being used in org and individual user level
