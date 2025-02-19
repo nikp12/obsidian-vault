@@ -11,3 +11,4 @@ There are 4 ways to do this
 3. Admin SDK Directory API
 4. Provisioning tool like Google cloud Directory Sync
 
+In bulk: Navigate to Directory, then Users. Click Bulk update users, then DOWNLOAD BLANK CSV TEMPLATE. 
