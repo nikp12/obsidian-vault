@@ -13,3 +13,8 @@ An application is installed on an orgs network.
 It includes Configuration Manager which provides a step by step guide to configure and run the syncronization process.
 With Config Manager, you can set up and test connection
 Configure LDAP search criteria to determine which users, groups, or other data to sync
+Also set up notification and logging options
+Run simulated sync to ensure that everythign it set up correctly
+GCDS uses search rules to determine what to include
+Exclusion rules can be applied like to exlude emails beginning with a certain string
+Sync can be run manually from Config M
