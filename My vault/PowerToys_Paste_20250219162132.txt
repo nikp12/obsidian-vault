@@ -1,0 +1,1 @@
+[ [ "\\* Note: During the restart", " you might be prompted by the UEFI to press a button to confirm that you want to clear the TPM" ] ]
