@@ -29,5 +29,7 @@ Gemini reports provides information on how it is being used in org and individua
 
 Security menu manages security settings like 2fa and pws, plus monitoring security and privacy issues
 Data menu gives overview of compliance, data migration, and data export settings
-
 Reporting gives reports and audit logs for potential security risks
+Billing section adds payment methods, views invoices, manages subscriptions, and assigns licenses
+Account settings customizes org details and sets comm preferences, can also review compliance agreements like GDPR and HIPAA
+
