@@ -18,3 +18,7 @@ It can take up to 24 hours for new user accounts to appear in the searchable dom
 
 Directory sync:
 No software needs to be installed or maintained. Directory Sync is connected to AD environment and Workspace domain with secure authentication. It automatically synchronizes essential user attributes. Can also be customized by selecting specific OUs to include or exclude. This is a separate service from GCDS, which is an on-prem tool with extensive customization. Directory Sync is a cloud-based service for basic user and group sync.
+
+Initially, all provisoned resources will be placed in a single org
+All settings made in admin console apply to the top level organization
+You can create OUs to control what apps a
