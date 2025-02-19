@@ -12,3 +12,5 @@ There are 4 ways to do this
 4. Provisioning tool like Google cloud Directory Sync
 
 In bulk: Navigate to Directory, then Users. Click Bulk update users, then DOWNLOAD BLANK CSV TEMPLATE. Fill out the template. First name, last name, email address, password, and org unit path are all required info. For org unit path, "/" represents the root org. Return to the Bulk update suers box, then click ATTACH CSV FILE and upload it.
+
+It can take up to 24 hours for new user accounts to appear in the searchable domain directory. When uploading more than 500 accounts, you can optimize the experience by splitting uploads into smaller batches, but up to 150,000 is allowed.
