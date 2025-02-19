@@ -11,4 +11,4 @@ There are 4 ways to do this
 3. Admin SDK Directory API
 4. Provisioning tool like Google cloud Directory Sync
 
-In bulk: Navigate to Directory, then Users. Click Bulk update users, then DOWNLOAD BLANK CSV TEMPLATE. 
+In bulk: Navigate to Directory, then Users. Click Bulk update users, then DOWNLOAD BLANK CSV TEMPLATE. Fill out the template. First name, last name, email address, password, and org unit path are all required info. For org unit path, "/" represents the root org. Return to the Bulk update suers box, then click ATTACH CSV FILE and upload it.
